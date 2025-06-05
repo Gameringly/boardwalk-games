@@ -94,6 +94,25 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+#events {
+    padding: 0 0.5rem
+}
+
+#events .table-responsive {
+    font-size: 80%;
+}
+
+#discounts {
+    background-color: var(--highlight-color);
+    color: white;
+    font-family: var(--primary-font);
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+    text-wrap: nowrap;
+    padding: 0.25rem;
+}
+
 /* Footer / Contact */
 #contact {
     background-color: var(--primary-color);
